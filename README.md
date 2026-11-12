@@ -66,8 +66,8 @@ SMILES → RDKit standardization → 15 CNS-relevant descriptors + 2048-bit Morg
 ## Setup
 
 ```
-git clone https://github.com/notbrutuss/bbb-qsar.git
-cd bbb-qsar
+git clone https://github.com/notbrutuss/bbb-safety-triage.git
+cd bbb-safety-triage
 pip install -r requirements.txt
 ```
 ## Usage
